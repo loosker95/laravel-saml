@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
-        "illuminate/support": "^6|^7|^8|^9|^10|^11",
+        "php": "^8.2",
+        "illuminate/support": "^6|^7|^8|^9|^10|^11|^12",
         "lightsaml/lightsaml": "dev-master",
         "symfony/http-foundation": "^5.0|^6.0|^7.0"
     },
